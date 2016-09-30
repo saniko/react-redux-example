@@ -12,8 +12,8 @@ Basically extending the documentation for educational purposes.
 
 Clone the repo
 
-Run #b npm install
+Run npm install
 
-Run #b npm run serve
+Run npm run serve
 
 Browse to localhost:3003
